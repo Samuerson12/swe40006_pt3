@@ -49,7 +49,7 @@ def home():
           <input name="message" placeholder="Enter a message" style="padding:8px; width:300px"/>
           <button type="submit" style="padding:8px 16px">Submit</button>
         </form>
-        <h3>Messages from Database:</h3>
+        <h3>Messages from Database :</h3>
         <ul style="list-style:none; padding:0">{messages_html}</ul>
       </body>
     </html>
